@@ -9,8 +9,8 @@ import (
 
 	"net/http/httptest"
 
-	"github.com/rs/zerolog"
-	"github.com/rs/zerolog/hlog"
+	"github.com/vadimyer/zerolog"
+	"github.com/vadimyer/zerolog/hlog"
 )
 
 // fake alice to avoid dep

@@ -8,8 +8,8 @@ import (
 	"time"
 
 	"github.com/rs/xid"
-	"github.com/rs/zerolog"
-	"github.com/rs/zerolog/log"
+	"github.com/vadimyer/zerolog"
+	"github.com/vadimyer/zerolog/log"
 	"github.com/zenazn/goji/web/mutil"
 )
 
